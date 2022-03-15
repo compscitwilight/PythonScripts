@@ -1,5 +1,3 @@
-from turtle import clear
-from unittest import case
 import requests
 import functions
 
